@@ -15,15 +15,4 @@
 
 Πρόκειται για εκπαιδευτική προσομοίωση που δεν συνδέεται με πραγματική συσκευή. Οι παράμετροι θορύβου είναι ενδεικτικές και έχουν επιλεγεί ώστε να αναπαράγονται οι πιστότητες που δίνει ο κατασκευαστής για τους αλγορίθμους Deutsch και Grover.
 
-## Δημοσίευση με GitHub Pages
-
-1. Δημιουργήστε ένα δημόσιο αποθετήριο με όνομα `bits-to-qubits`.
-2. Ανεβάστε τα αρχεία `index.html`, `README.md` και `.nojekyll`.
-3. Στο αποθετήριο: **Settings → Pages**, στο **Source** επιλέξτε **Deploy from a branch**, κλάδο `main` και φάκελο `/ (root)`, και πατήστε **Save**.
-4. Μετά από λίγα λεπτά η σελίδα είναι διαθέσιμη στη διεύθυνση `https://ΟΝΟΜΑ-ΧΡΗΣΤΗ.github.io/bits-to-qubits/`.
-
-Το `index.html` είναι ένα αυτόνομο αρχείο χωρίς εξαρτήσεις, εκτός από τις γραμματοσειρές της Google. Ανοίγει και τοπικά, με διπλό κλικ.
-
----
-
 *English:* Companion material for the invited talk "From Bits to Qubits: Real Experiments and Algorithms on a Nuclear Magnetic Resonance Quantum Processor". It contains a 90-second animated introduction linking hospital MRI and the step from bits to qubits to quantum computing, an animated NMR simulation and a two-qubit quantum circuit composer that runs circuits on a simulated SpinQ Gemini Mini / Mini Pro, with tomography, NMR spectra and pulse sequences. It is an educational simulation and is not connected to real hardware.
